@@ -48,7 +48,7 @@ body{
     .button:hover{
     background-color: white;
     color: black;
-    transition: 0s ease;
+    transition: 0s ease !important;
     }
 }
 .name{
