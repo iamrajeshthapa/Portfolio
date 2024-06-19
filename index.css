@@ -25,7 +25,7 @@ body{
     padding-left: 10px;
     padding-right: 10px;
 }
-.body{
+.content{
     display: flex;
     align-items: center;
     flex-direction: column;
@@ -44,7 +44,7 @@ body{
     }
 }
 @media (max-width: 330px) {
-    .body{
+    .content{
         align-items: start !important;
     }
     .profession{
