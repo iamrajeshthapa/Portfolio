@@ -1,0 +1,11 @@
+[
+  {
+    project-picture: "./Asset/Picture/Project/Project.jpg",
+    project-name: "Basobas",
+    project-summary: "It is a simple react-native application for buying and selling room",
+    project-redirect: {
+      view: "https://github.com/iamrajeshthapa",
+      sourceCode: "https://github.com/iamrajeshthapa"
+    }
+  }
+]
